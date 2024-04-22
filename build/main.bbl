@@ -1,0 +1,23 @@
+\begin{thebibliography}{}
+
+\bibitem[Kearns, 1989]{kearns89}
+Kearns, M.~J. (1989).
+\newblock {\em Computational Complexity of Machine Learning}.
+\newblock PhD thesis, Department of Computer Science, Harvard University.
+
+\bibitem[Langley, 2000]{langley00}
+Langley, P. (2000).
+\newblock Crafting papers on machine learning.
+\newblock In Langley, P., editor, {\em Proceedings of the 17th International Conference on Machine Learning (ICML 2000)}, pages 1207--1216, Stanford, CA. Morgan Kaufmann.
+
+\bibitem[Michalski et~al., 1983]{MachineLearningI}
+Michalski, R.~S., Carbonell, J.~G., and Mitchell, T.~M., editors (1983).
+\newblock {\em Machine Learning: An Artificial Intelligence Approach, Vol. I}.
+\newblock Tioga, Palo Alto, CA.
+
+\bibitem[Mitchell, 1980]{mitchell80}
+Mitchell, T.~M. (1980).
+\newblock The need for biases in learning generalizations.
+\newblock Technical report, Computer Science Department, Rutgers University, New Brunswick, MA.
+
+\end{thebibliography}
